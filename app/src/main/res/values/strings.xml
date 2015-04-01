@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile Endorsements For Jive</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
+    <string name="button_search">Search</string>
+    <string name="title_activity_show_endorsements">ShowEndorsements</string>
+</resources>
